@@ -1,0 +1,7 @@
+{
+	"code":1,
+	"msg":"添加成功",
+	"data":[
+            {"public_src":"../../static/img/example.jpg","article_src":"../../static/img/example.jpg","public_title":"公众号名称","public_info":"大大萨达按时打算大萨达按时按时","article_info":"萨达撒多按时打算打算","start_time":"2017/8/20 18:54:13","monitor_time":"2017/9/20 18:54:13"}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"code": 1,
+	"msg": "添加成功",
+	"data": [
+		{
+			"id_particular": "dasdlhkgesr",
+			"src": "../../static/img/example.jpg",
+			"title": "第9个活动",
+			"echarts":[
+				{"read":3,"xaxis":"2017/11/4"},
+				{"read":8,"xaxis":"2017/11/5"},
+				{"read":19,"xaxis":"2017/11/6"},
+				{"read":2,"xaxis":"2017/11/7"},
+				{"read":13,"xaxis":"2017/11/8"},
+				{"read":9,"xaxis":"2017/11/9"},
+				{"read":3,"xaxis":"2017/11/10"},
+				{"read":19,"xaxis":"2017/11/11"}
+			],
+			"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+			"state": "5",
+			"id": "3218"
+		}
+	]
+}

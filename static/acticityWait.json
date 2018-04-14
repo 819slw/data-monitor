@@ -1,0 +1,146 @@
+{
+	"code": 1,
+	"msg": "音响",
+	"data": {
+		"total": 17,
+		"list": [
+			{
+				"id_particular": "sadadasasdasd",
+				"src": "../../static/img/example.jpg",
+				"title": "第1个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "1",
+				"id": "3210"
+			}, {
+				"id_particular": "dasddasdsa",
+				"src": "../../static/img/example.jpg",
+				"title": "第2个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "3",
+				"id": "3211"
+			}, {
+				"id_particular": "dasddasdas",
+				"src": "../../static/img/example.jpg",
+				"title": "第3个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],	
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "4",
+				"id": "3212"
+			}, {
+				"id_particular": "dasdasfasfas",
+				"src": "../../static/img/example.jpg",
+				"title": "第4个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "5",
+				"id": "3213"
+			}, {
+				"id_particular": "dasdeqwdas",
+				"src": "../../static/img/example.jpg",
+				"title": "第5个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "3",
+				"id": "3214"
+			}, {
+				"id_particular": "dasdasdzcxzc",
+				"src": "../../static/img/example.jpg",
+				"title": "第6个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "5",
+				"id": "3215"
+			}, {
+				"id_particular": "dsadasdfvfd",
+				"src": "../../static/img/example.jpg",
+				"title": "第7个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "1",
+				"id": "3216"
+			}, {
+				"id_particular": "dasdasretgndh",
+				"src": "../../static/img/example.jpg",
+				"title": "第8个活动",
+				"echarts":[
+					{"read":3,"xaxis":"2017/11/4"},
+					{"read":8,"xaxis":"2017/11/5"},
+					{"read":19,"xaxis":"2017/11/6"},
+					{"read":2,"xaxis":"2017/11/7"},
+					{"read":13,"xaxis":"2017/11/8"},
+					{"read":9,"xaxis":"2017/11/9"},
+					{"read":3,"xaxis":"2017/11/10"},
+					{"read":19,"xaxis":"2017/11/11"}
+				],
+				"info": "第一个活动的执行大撒打算打算大声道请问服了身份打不会的阿达你发生发啦",
+				"state": "2",
+				"id": "3217"
+			}
+		]
+	}
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>数据监控</title>
+    <link rel="stylesheet" href="static/css/iconfont.css" />
+    <script type="text/javascript" src="static/js/jquery-3.3.1.min.js" ></script>
+    <script>
+    	var objs = {
+    		page_config:{
+    			monitorLongs:[
+    				{times:60,title:"1分钟"}	,
+    				{times:120,title:"2分钟"}	,
+    				{times:180,title:"3分钟"}	,
+    			],
+    			monitorRates:[
+    				{times:60,title:"1天"}	,
+    				{times:120,title:"2天"}	,
+    				{times:180,title:"3天"}	,
+    			],
+    			pageName:[
+    				{loginPage:'登录页面'},
+    				{allActivity:'阅读数监控'},
+    				{personalCenter:'个人中心'},
+    				{particular:'公众号详情'},
+    			]
+    		},
+    		url:{
+    			searchPublic:"http://localhost:3000/gznum",
+    			allMonitor:"http://localhost:3000/allMonitor",
+    			activitying:"http://localhost:3000/activitying",
+    			acticityWait:"http://localhost:3000/acticityWait",
+    			activityerror:"http://localhost:3000/activityerror",
+    			activityfail:"http://localhost:3000/activityfail",
+    			activitysuccess:"http://localhost:3000/activitysuccess",
+    			particular:"http://localhost:3000/particular",
+    			verifyNum:"http://localhost:3000/verify",
+    			register:"http://localhost:3000/register",
+    			login:"http://localhost:3000/login",
+    			addMonitor:"http://localhost:3000/addMonitor",
+    			deleteMonitor:"http://localhost:3000/deleteMonitor",
+    			publicInfo:"http://localhost:3000/publicInfo",
+    			checkIpone:"http://localhost:3000/checkIpone",
+    			amendPassword:"http://localhost:3000/amendPassword",
+    			backLogin:"http://localhost:3000/backLogin"
+    		}
+    	}
+    </script>
+    <style>
+    	*{
+    		padding: 0;
+    		margin: 0;
+    	}
+    	html,body{
+    		  width: 100vw;
+  				height: 100vh;
+    	}
+    	li{
+    		list-style: none;
+    	}
+    	a{
+    		text-decoration: none;
+    	}
+    	button{
+    		cursor: pointer;
+    		outline: none;
+    	}
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
