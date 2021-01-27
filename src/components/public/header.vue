@@ -36,6 +36,7 @@ export default {
     return {
       activeIndex: "1",
       userInfo: null,
+      funcNoop: noop,
     };
   },
   methods: {
