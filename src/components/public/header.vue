@@ -36,7 +36,6 @@ export default {
     return {
       activeIndex: "1",
       userInfo: null,
-      noopFUn: noop,
     };
   },
   methods: {
